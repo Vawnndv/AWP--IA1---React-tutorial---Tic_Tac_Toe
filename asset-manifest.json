@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Vawnndv/AWP--IA1---React-tutorial---Tic_Tac_Toe.git/static/css/main.64abb917.css",
-    "main.js": "/Vawnndv/AWP--IA1---React-tutorial---Tic_Tac_Toe.git/static/js/main.3546965f.js",
+    "main.js": "/Vawnndv/AWP--IA1---React-tutorial---Tic_Tac_Toe.git/static/js/main.d7255dd3.js",
     "index.html": "/Vawnndv/AWP--IA1---React-tutorial---Tic_Tac_Toe.git/index.html",
     "main.64abb917.css.map": "/Vawnndv/AWP--IA1---React-tutorial---Tic_Tac_Toe.git/static/css/main.64abb917.css.map",
-    "main.3546965f.js.map": "/Vawnndv/AWP--IA1---React-tutorial---Tic_Tac_Toe.git/static/js/main.3546965f.js.map"
+    "main.d7255dd3.js.map": "/Vawnndv/AWP--IA1---React-tutorial---Tic_Tac_Toe.git/static/js/main.d7255dd3.js.map"
   },
   "entrypoints": [
     "static/css/main.64abb917.css",
-    "static/js/main.3546965f.js"
+    "static/js/main.d7255dd3.js"
   ]
 }
